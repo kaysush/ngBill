@@ -1,0 +1,15 @@
+{
+  "name": "ng-bill",
+  "version": "1.0.0",
+  "description": "A sample Angular.js application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "kaysush",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
